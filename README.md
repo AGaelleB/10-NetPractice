@@ -1,7 +1,8 @@
 # 10-NetPractice
-42 Network project Net practice
 
 You will need first to search for TCP/IP and subnetting a network also search for routers(routes and routing table),switches, hubs..
+
+42 Network project Net practice![Screenshot from 2024-12-17 14-17-40](https://github.com/user-attachments/assets/6ed94618-e330-4c9b-bf5a-f9202b9d5c2c)
 
 All 10 Levels walk out :
 
